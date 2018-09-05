@@ -1,0 +1,6 @@
+letters = ('A', 'C', 'B', 'B', 'C', 'A', 'C', 'C', 'B')
+occurrences = list()
+occurrences.append(letters.count('A'))
+occurrences.append(letters.count('B'))
+occurrences.append(letters.count('C'))
+print(occurrences)
