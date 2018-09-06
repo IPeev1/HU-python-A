@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eea146e-4fc7-4021-b346-afa9b8bf7b4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-functie-met-drie-parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-functie-met-if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-functie-met-if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-for-if-numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-for-if-vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-decision-control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-files-lezen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-files-schrijven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-two-dimensional-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-nested-loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-operator-precedence.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-operator-precedence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,25 +66,57 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="587000561">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="19" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="9" />
+          <entry key="py" value="6832" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="6841" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HU-python-A" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6-functie-met-immutable-parameter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ns-functies.py">
+        <entry file="file://$PROJECT_DIR$/bagagekluizen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="-688">
+              <caret line="36" selection-end-line="133" />
               <folding>
-                <marker date="1536188379562" expanded="true" signature="31:181" ph="..." />
+                <marker date="1536271410409" expanded="true" signature="83:335" ph="..." />
+                <marker date="1536271410409" expanded="true" signature="1349:1739" ph="..." />
+                <marker date="1536271410409" expanded="true" signature="2004:2665" ph="..." />
+                <marker date="1536271410409" expanded="true" signature="2681:2682" ph="..." />
+                <marker date="1536271410409" expanded="true" signature="2681:2686" ph="..." />
+                <marker date="1536271410409" expanded="true" signature="2748:2815" ph="..." />
               </folding>
             </state>
           </provider>
@@ -106,6 +142,7 @@
       <find>print(rit</find>
       <find>1d</find>
       <find>1f</find>
+      <find>error()</find>
     </findStrings>
     <replaceStrings>
       <replace>print(type</replace>
@@ -133,7 +170,6 @@
         <option value="$PROJECT_DIR$/2-lists-numbers.py" />
         <option value="$PROJECT_DIR$/3-tuples.py" />
         <option value="$PROJECT_DIR$/1-getallen-strings-conversion.py" />
-        <option value="$PROJECT_DIR$/2-operator-precedence.py" />
         <option value="$PROJECT_DIR$/3-input-output.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -150,13 +186,27 @@
         <option value="$PROJECT_DIR$/5-functie-met-list-parameter-for-loop.py" />
         <option value="$PROJECT_DIR$/6-functie-met-immutable-parameter.py" />
         <option value="$PROJECT_DIR$/ns-functies.py" />
+        <option value="$PROJECT_DIR$/2-operator-precedence.py" />
+        <option value="$PROJECT_DIR$/1-formatting.py" />
+        <option value="$PROJECT_DIR$/2-files-lezen.py" />
+        <option value="$PROJECT_DIR$/3-files-lezen.py" />
+        <option value="$PROJECT_DIR$/4-files-schrijven.py" />
+        <option value="$PROJECT_DIR$/5-string-functions.py" />
+        <option value="$PROJECT_DIR$/1-decision-control.py" />
+        <option value="$PROJECT_DIR$/2-lists-stings.py" />
+        <option value="$PROJECT_DIR$/2-lists-strings.py" />
+        <option value="$PROJECT_DIR$/3-lists-numbers.py" />
+        <option value="$PROJECT_DIR$/4-two-dimensional-lists.py" />
+        <option value="$PROJECT_DIR$/5-nested-loop.py" />
+        <option value="$PROJECT_DIR$/kluizen.txt" />
+        <option value="$PROJECT_DIR$/bagagekluizen.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="960" />
     <option name="width" value="960" />
-    <option name="height" value="1052" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,8 +218,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="HU-python-A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HU-python-A" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,8 +240,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ns-functies">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,8 +278,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ns-functies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ns-functies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.ns-functies" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ns-functies" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -264,21 +341,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1052" extended-state="4" />
+    <frame x="960" y="0" width="960" height="1046" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28820962" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30634573" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291714" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4978166" weight="0.30944625" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021834" side_tool="true" weight="0.3108253" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30634573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291714" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4978166" visible="true" weight="0.3108253" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4978166" weight="0.31053203" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021834" side_tool="true" weight="0.3108253" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -286,7 +384,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -309,13 +407,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/1-expressions.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -345,9 +437,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$PROJECT_DIR$/1-lists-strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -373,13 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-operator-precedence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -450,10 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-end-line="9" />
-          <folding>
-            <marker date="1536184981169" expanded="true" signature="32:37" ph="..." />
-            <marker date="1536184981169" expanded="true" signature="127:134" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="23" lean-forward="true" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <marker date="1536185321359" expanded="true" signature="24:29" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -478,9 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <marker date="1536185869959" expanded="true" signature="54:59" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -488,9 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <marker date="1536186020145" expanded="true" signature="45:50" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -501,12 +571,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2-operator-precedence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ns-functies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="196">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-formatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
-            <marker date="1536188379562" expanded="true" signature="31:181" ph="..." />
+            <marker date="1536258772721" expanded="true" signature="15:20" ph="..." />
+            <marker date="1536258772721" expanded="true" signature="100:105" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-files-lezen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-files-lezen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-files-schrijven.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-string-functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-decision-control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="32" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <marker date="1536263722223" expanded="true" signature="19:24" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-lists-stings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-lists-strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="true" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-lists-numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-two-dimensional-lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-nested-loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="45" lean-forward="true" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kluizen.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bagagekluizen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-688">
+          <caret line="36" selection-end-line="133" />
+          <folding>
+            <marker date="1536271410409" expanded="true" signature="83:335" ph="..." />
+            <marker date="1536271410409" expanded="true" signature="1349:1739" ph="..." />
+            <marker date="1536271410409" expanded="true" signature="2004:2665" ph="..." />
+            <marker date="1536271410409" expanded="true" signature="2681:2682" ph="..." />
+            <marker date="1536271410409" expanded="true" signature="2681:2686" ph="..." />
+            <marker date="1536271410409" expanded="true" signature="2748:2815" ph="..." />
           </folding>
         </state>
       </provider>
